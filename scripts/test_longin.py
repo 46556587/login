@@ -13,4 +13,8 @@ class TestLongin:
 
     def test_04(self):
         print('44')
+        assert 1
+
+    def test_05(self):
+        print('44')
         assert 0
